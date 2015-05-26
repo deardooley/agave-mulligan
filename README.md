@@ -41,7 +41,7 @@ wet-digital hybrid experimentation has its own best practices.
 
 ### COMMENT
 * Gitter for conversations and communication logs
-* 
+* Comment on releases and reference commits.
 
 ### RELEASE
 * list any relevant external sources of data, apps, code, etc in the discovery.yml file
